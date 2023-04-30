@@ -264,82 +264,10 @@ export default  [
     file: "virt.mp3",
   },  
   {
-    title:"1 - About The Ways",
+    title:"45 - Instant Night",
     artist: "Taos Elieri",
     cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },  
-  {
-    title:"1 - About The Ways",
-    artist: "Taos Elieri",
-    cover: "taos.jpeg",
-    file: "about.mp3",
-  },
+    file: "inst.mp3",
+  }
  ];
 
