@@ -18,8 +18,8 @@ export default  [
     file: "acid.mp3",
   },  
   {
-    title:"4 - Need Your Love remix ",
-    artist: "Adixia - Taos Elieri",
+    title:"4 - Adixia - Need Your Love  ",
+    artist: "Remix Taos Elieri",
     cover: "taos.jpeg",
     file: "adixia.mp3",
   },  
