@@ -6,7 +6,7 @@ export default  [
     file: "1.mp3",
   },{
     title:"2 - Elevo os Meus Olhos",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "2.mp3",
   },{
@@ -50,7 +50,7 @@ export default  [
     cover: "1.jpeg",
     file: "10.mp3",
   },{
-    title:"11 - Nao Ha Outro,
+    title:"11 - Nao Ha Outro",
     artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "11.mp3",
