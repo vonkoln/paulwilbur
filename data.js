@@ -1,7 +1,7 @@
 export default  [  
   {
     title:"1 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "1.mp3",
   },{
@@ -11,17 +11,17 @@ export default  [
     file: "2.mp3",
   },{
     title:"3 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "3.mp3",
   },{
     title:"4 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "4.mp3",
   },{
     title:"5 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "5.mp3",
   },{
@@ -31,47 +31,47 @@ export default  [
     file: "6.mp3",
   },{
     title:"7 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "7.mp3",
   },{
     title:"8 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "8.mp3",
   },{
     title:"9 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "9.mp3",
   },{
     title:"10 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "10.mp3",
   },{
     title:"11 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "11.mp3",
   },{
     title:"12 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "12.mp3",
   },{
-    title:"13 -",
-    artist: "",
+    title:"13 - Ma Tovu (Oh Que Bom)",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "13.mp3",
   },{
     title:"14 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "14.mp3",
   },{
     title:"15 -",
-    artist: "",
+    artist: "Paul Wilbur",
     cover: "1.jpeg",
     file: "15.mp3",
   },{
